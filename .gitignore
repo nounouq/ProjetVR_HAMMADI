@@ -6,7 +6,6 @@
 [Ll]ogs/
 UserSettings/
 
-*.apk
 *.aab
 *.unitypackage
 *.gradle
